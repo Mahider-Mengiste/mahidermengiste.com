@@ -1952,7 +1952,15 @@
 						}
 
 		}
-
+ 	.header{ 
+	display: flex;
+	text-decoration:none;
+}
+.header h1 {
+	margin-right: 10px;
+	margin-left: 10px;
+	text-decoration:solid;
+}
 /* Container */
 
 	.container {
